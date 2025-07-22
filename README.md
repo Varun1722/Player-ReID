@@ -24,7 +24,8 @@ It focuses specifically on Player Reidentification in soccer reels and videos ta
 ├── football_analysis/
 │   ├── tracker/
 │   ├── utils/
-│   └── output_videos/
+│   ├── output_videos/
+|   └── main.py
 ├── model/
 ├── tracker_BoTSort/
 ├── tracker_deepsort/
