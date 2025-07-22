@@ -1,0 +1,10 @@
+reid/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models and binaries
+model/*.pt
+model/*.pth.tar
+*.pkl
