@@ -1,8 +1,10 @@
 # 🏈 Football Analysis System (Player Reidentification)
 
 This project performs football match analysis using object detection and multi-object tracking (MOT). Leveraging YOLO-based detection along with DeepSORT and BoT-SORT tracking, it enables detailed analysis of player movement and behavior in football match videos.
-It focuses specifically on Player Reidentification in soccer reels and videos tackling Occlusion and the case when a player re-emerges after disappearing for a specific amount of frames. 
----
+It focuses specifically on Player Reidentification in soccer reels and videos tackling **Occlusion** and the case when a player re-emerges after disappearing for a specific amount of frames. 
+
+
+
 
 ## ✅ Features
 
