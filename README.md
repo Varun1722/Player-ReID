@@ -4,7 +4,7 @@ This project performs football match analysis using object detection and multi-o
 It focuses specifically on Player Reidentification in soccer reels and videos tackling **Occlusion** and the case when a player re-emerges after disappearing for a specific amount of frames. 
 
 
-
+Read the report on [Notion](https://www.notion.so/Player-Re-Identification-in-Soccer-22ba64b5946080959b56e6e10f968b7b?source=copy_link).
 
 ## ✅ Features
 
